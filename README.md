@@ -6,8 +6,8 @@
 :man_technologist: About Me :
 
 - 👋 Hi, I’m Antonino Ragusa
-- 👀 I’m interested...
-- 🌱 I’m currently learning...
+- 👀 I’m interested: web development, coding, automation, IoT, LEGO, cats, vegan and vegetarian cooking.
+- 🌱 I’m currently learning: Android development, React, Next, NodeJs, Kivy and KivyMD. And also vegan barbecue burgers.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/antonino-ragusa-981a07189/" title="Linkedin">Linkedin</a> 
 
 <br />
@@ -44,6 +44,8 @@
    <img alt="React" src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
    <img alt="Next" src="https://img.shields.io/badge/Next.js-000000?logo=react&logoColor=white&style=for-the-badge" />
    <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+   <img alt="Kivy" src="https://img.shields.io/badge/Kivy-339933?logo=kivy&logoColor=white&style=for-the-badge" />
+   <img alt="KivyMD" src="https://img.shields.io/badge/KivyMD-339933?logo=kivymd&logoColor=white&style=for-the-badge" />
  </div>
 
 <br /><br />
