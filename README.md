@@ -33,9 +33,9 @@
   <p>:black_nib: My Tools:</p>
   <img alt="VS Code" src="https://img.shields.io/badge/VS Code-31a8ff?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/VS-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" />
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?logo=Android Studio&logoColor=white&style=for-the-badge" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=white&style=for-the-badge" />
   <img alt="3DS Max" src="https://img.shields.io/badge/3DSmax-000?logo=autodesk&logoColor=white&style=for-the-badge" />
-  <img alt="MS SQL" src="https://img.shields.io/badge/MS SQL-CC2927?logo=Microsoft SQL Server&logoColor=white&style=for-the-badge" />
+  <img alt="MS SQL" src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=Microsoft%20SQL%20Server&logoColor=white&style=for-the-badge" />
 </div>
 
 <br />
