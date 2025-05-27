@@ -53,7 +53,7 @@
 
 <div id="Stats" align="center">
   <p>:fire: My Stats:</p>
- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NinoNonoNano&theme=shades-of-purple" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NinNonNan&theme=shades-of-purple" alt="GitHub Streak" /></a>
 </div>
 
 <br />
