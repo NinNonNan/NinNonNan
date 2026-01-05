@@ -53,7 +53,7 @@
 
 <div id="Stats" align="center">
   <p>:fire: My Stats:</p>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=NinNonNan&theme=shades-of-purple&locale=en" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=NinNonNan&theme=shades-of-purple" alt="GitHub Streak" /></a>
 </div>
 
 <br />
