@@ -5,10 +5,11 @@
 
 :man_technologist: About Me :
 
-- 👋 Hi, I’m Antonino Ragusa
-- 👀 I’m interested in web development, coding, automation, IoT, LEGO, cats, vegan and vegetarian cooking.
-- 🌱 I’m currently learning: Android development, React, Next, NodeJs, Kivy and KivyMD. And also vegan barbecue burgers.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/antonino-ragusa-981a07189/" title="Linkedin">Linkedin</a> 
+- 👋 Hi, I’m **Antonino Ragusa**
+- 👀 I’m interested in **Web Development**, **Automation**, **IoT**, **LEGO**, **Cats**, and **Vegan/Vegetarian Cooking**.
+- 🌱 I’m currently learning: **Android Development**, **React**, **Next.js**, **Node.js**, **Kivy**, and **KivyMD**.
+  *(I'm also working on the perfect vegan barbecue burger recipe! 🍔)*
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/antonino-ragusa-981a07189/" title="Linkedin">**Linkedin**</a> 
 
 <br />
 <br />
@@ -67,3 +68,4 @@
 NinNonNan/NinNonNan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br />
