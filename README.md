@@ -53,7 +53,7 @@
 
 <div id="Stats" align="center">
   <p>:fire: My Stats:</p>
-<a href="https://git.io/streak-stats"><img src="https://INSERISCI-QUI-IL-TUO-DOMINIO.vercel.app/?user=NinNonNan&theme=shades-of-purple" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://.vercel.app/streak-stats.demolab.com?user=NinNonNan&theme=shades-of-purple" alt="GitHub Streak" /></a>
 </div>
 
 <br />
