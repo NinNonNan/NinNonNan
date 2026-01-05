@@ -53,7 +53,7 @@
 
 <div id="Stats" align="center">
   <p>:fire: My Stats:</p>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=NinNonNan&theme=shades-of-purple&refresh=123" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=NinNonNan&theme=shades-of-purple&hide_border=false" alt="GitHub Streak" /></a>
 </div>
 
 <br />
@@ -64,6 +64,6 @@
 
 
 <!---
-NinoNonoNano/NinoNonoNano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NinNonNan/NinNonNan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
