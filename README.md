@@ -54,13 +54,13 @@
 
 <div id="Stats" align="center">
   <p>:fire: My Stats:</p>
-<a href="https://git.io/streak-stats"><img src="https://readme-streak-stats-jet.vercel.app/?user=NinNonNan&theme=shades-of-purple" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=NinNonNan&theme=shades-of-purple" alt="GitHub Streak" /></a>
 </div>
 
 <br />
 
 <div id="Counter" align="center">
-  <img src="https://komarev.com/ghpvc/?user=NinNonNan&style=plastic&color=blueviolet" alt="Profile Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=NinNonNan&style=plastic&color=blueviolet" alt="Profile Counter"/>
 </div>
 
 
