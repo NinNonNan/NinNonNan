@@ -60,7 +60,7 @@
 <br />
 
 <div id="Counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=NinNonNan&style=plastic&color=blueviolet" alt="Profile Counter"/>
+  <img src="https://komarev.com/ghpvc/?user=NinNonNan&style=plastic&color=blueviolet" alt="Profile Counter"/>
 </div>
 
 
