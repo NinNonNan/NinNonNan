@@ -37,6 +37,7 @@
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge" />
   <img alt="3DS Max" src="https://img.shields.io/badge/3DSmax-000?logo=autodesk&logoColor=white&style=for-the-badge" />
   <img alt="MS SQL" src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" />
 </div>
 
 <br />
@@ -52,9 +53,12 @@
 
 <br /><br />
 
-<div id="Stats" align="center">
+<div id="stats" align="center">
   <p>:fire: My Stats:</p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=NinNonNan&theme=shades-of-purple" alt="GitHub Streak" /></a>
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="80%" />
+  <br />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=NinNonNan&theme=shades-of-purple" alt="GitHub Streak" />
 </div>
 
 <br />
